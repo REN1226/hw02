@@ -1,0 +1,75 @@
+.inner{
+   background:#FFFFBB;
+}
+.outer{
+   background:#FFFFBB;
+}
+.box{
+  width:50px;
+  height:50px; 
+}
+.box1 {
+    width: 70px;
+    height: 50px;
+    text-align: center;
+    font-weight: 900;
+    line-height:50px;
+}
+.box2 {
+    width: 50px;
+    height: 50px;
+    text-align: right;
+    font-weight: 900;
+    line-height:50px;
+}
+.box3 {
+    width: 50px;
+    height: 50px;
+    text-align: right;
+    font-weight: 900;
+    line-height:50px;
+}
+.box4 {
+    width: 50px;
+    height: 50px;
+    text-align: left;
+    font-weight: 900;
+    line-height:50px;
+}
+}
+.bg1{
+ background: orangered; 
+}
+.bg2{
+ background: limegreen; 
+}
+.bg3{
+ background: dodgerblue; 
+}
+.bg4{
+ background: gold; 
+}
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+}
+.circle2{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:white;
+    line-height:50px;
+    text-align:center;
+    background:red;
+}
